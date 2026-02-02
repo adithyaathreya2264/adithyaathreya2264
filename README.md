@@ -30,4 +30,3 @@ Most repositories here are:
 
 ## Contact
 - GitHub: https://github.com/adithyaathreya2264
-- LinkedIn: (add if you want it visible here)

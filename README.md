@@ -21,7 +21,6 @@ Computer Science undergraduate focused on building practical software systems an
 - Deepening DSA for technical interviews
 - Building end-to-end projects with clean architecture
 - Writing maintainable, readable code
-- Preparing for software engineering internships and MS CS (Fall 2027)
 
 ## Projects
 Most repositories here are:

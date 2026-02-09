@@ -18,9 +18,8 @@ Computer Science undergraduate focused on building practical software systems an
 - Concepts: OOP, DBMS, DSA, Software Design Basics
 
 ## Current Focus
-- Deepening DSA for technical interviews
-- Building end-to-end projects with clean architecture
-- Writing maintainable, readable code
+- Deepening DSA for technical interviews.
+- Building projects that deepen understanding of computer systems and software internals.
 
 ## Projects
 Most repositories here are:

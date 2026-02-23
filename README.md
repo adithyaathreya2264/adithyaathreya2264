@@ -10,7 +10,7 @@ Computer Science undergraduate focused on building practical software systems an
 - CLI tools and system-oriented projects
 
 ## Technical Skills
-- Languages: Java | Python | C | C++ | TypeScript | JavaScript
+- Languages: _Java | Python | C | C++ | TypeScript | JavaScript_
 - Backend: Spring Boot | FastAPI | Flask | Netty(RPC) | Socket.IO | 
            **Distributed systems(Raft consensus)** | REST APIs | **Streaming systems (Redpanda, Apache Flink)**
 - Databases: MongoDB Atlas | DynamoDB | Supabase | IndexedDB

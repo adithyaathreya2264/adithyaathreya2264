@@ -10,17 +10,17 @@ Computer Science undergraduate focused on building practical software systems an
 - CLI tools and system-oriented projects
 
 ## Technical Skills
-- Languages: Java, Python, C, C++, TypeScript, JavaScript
-- Backend: Spring Boot, FastAPI, Flask, Netty (RPC), Socket.IO
-           **Distributed systems (Raft consensus)**, REST APIs, **Streaming systems (Redpanda, Apache Flink)**
-- Databases: MongoDB Atlas, DynamoDB, Supabase, IndexedDB
-- Frontend: React, Next.js, TypeScript, Cytoscape.js, Framer Motion
-            Real-time dashboards, PWA architecture
-- Tools: AWS (Lambda, Step Functions), Pandas, XGBoost, OpenAI API, Git
-- Concepts: **Distributed systems**, **Consensus algorithms**, **LSM-Tree storage engines**
-            Event-driven architecture, ETL pipelines
-            **End-to-end encryption (RSA, AES-GCM, Diffie-Hellman, SHA-256)**
-            Graph algorithms (Dijkstra, PageRank), BFS, DFS, Backtracking
+- Languages: Java | Python | C | C++ | TypeScript | JavaScript
+- Backend: Spring Boot | FastAPI | Flask | Netty(RPC) | Socket.IO | 
+           **Distributed systems(Raft consensus)** | REST APIs | **Streaming systems (Redpanda, Apache Flink)**
+- Databases: MongoDB Atlas | DynamoDB | Supabase | IndexedDB
+- Frontend: React | Next.js | TypeScript | Cytoscape.js | Framer Motion | 
+            Real-time dashboards | PWA architecture
+- Tools: AWS(Lambda, Step Functions) | Pandas | XGBoost | OpenAI API | Git
+- Concepts: **Distributed systems** | **Consensus algorithms** | **LSM-Tree storage engines** | 
+            Event-driven architecture | ETL pipelines | 
+            **End-to-end encryption(RSA, AES-GCM, Diffie-Hellman, SHA-256)** | 
+            Graph algorithms(Dijkstra, PageRank) | BFS | DFS | Backtracking
 
 ## Current Focus
 - Deepening DSA for technical interviews

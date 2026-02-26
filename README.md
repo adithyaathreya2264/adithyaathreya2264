@@ -3,12 +3,12 @@
 Computer Science undergraduate focused on building practical software systems and strengthening core fundamentals in data structures, algorithms, and backend development.
 
 ## What I work on
-- Java-based applications (Swing, JSP, Servlets)
-- Backend development with MySQL and SQL-based systems
-- Full-stack web projects with clear separation of concerns
-- Problem solving using DSA (Python / Java)
-- CLI tools and system-oriented projects
-
+- Distributed and real-time backend systems
+- Real-time data pipelines and event-driven systems
+- Secure communication and encryption-based applications
+- Algorithmic systems and graph-based engines
+- Backend engineering with strong consistency and performance focus
+  
 ## Technical Skills
 - Languages: _Java | Python | C | C++ | TypeScript | JavaScript_
 - Backend: Spring Boot | FastAPI | Flask | Netty(RPC) | Socket.IO | 
